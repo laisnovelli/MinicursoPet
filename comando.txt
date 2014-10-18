@@ -1,5 +1,0 @@
-
-git add nome
-git commit -m  "criado o primeiro arquivo"
-git status
-
